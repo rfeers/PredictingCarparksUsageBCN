@@ -1,5 +1,5 @@
 # Modelling and prediction of the use of car parks in the province of Barcelona
-Master's Thesis in collaboration with Josep Ferrer, supervised by Vicenç Gomez. Data provided by ATM.  
+Master's Thesis in collaboration with David Moreno, supervised by Vicenç Gomez. Data provided by ATM.  
 
 In the context of two final master's theses, the behaviour of car park usage in the province of Barcelona has been analysed in order to make a model (first test) and a predictive system (second test) to help reduce traffic emissions. It is also interesting to understand how the weather, or common events (for example) such as the pandemic, have affected car parks. This study has been conducted over a period of time using data provided by the ATM, taking into account the number of full spaces at different prices with a resolution of 30 minutes.
 
